@@ -1,9 +1,9 @@
-package org.ikinsure.hard.banking;
+package org.ikinsure.banking;
 
-import org.ikinsure.hard.banking.model.Bank;
-import org.ikinsure.hard.banking.model.Card;
-import org.ikinsure.hard.banking.view.Menu;
-import org.ikinsure.hard.banking.view.MenuController;
+import org.ikinsure.banking.model.Bank;
+import org.ikinsure.banking.model.Card;
+import org.ikinsure.banking.view.Menu;
+import org.ikinsure.banking.view.MenuController;
 
 import java.util.Optional;
 import java.util.Scanner;

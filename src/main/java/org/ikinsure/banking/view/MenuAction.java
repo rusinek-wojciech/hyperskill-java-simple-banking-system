@@ -1,4 +1,4 @@
-package org.ikinsure.hard.banking.view;
+package org.ikinsure.banking.view;
 
 /**
  * interface represents menu special activity when clicked

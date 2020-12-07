@@ -1,4 +1,4 @@
-package org.ikinsure.hard.banking.view;
+package org.ikinsure.banking.view;
 
 import java.util.ArrayList;
 import java.util.List;

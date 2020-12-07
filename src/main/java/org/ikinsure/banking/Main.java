@@ -1,4 +1,4 @@
-package org.ikinsure.hard.banking;
+package org.ikinsure.banking;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package org.ikinsure.hard.banking.model;
+package org.ikinsure.banking.model;
 
 import java.util.Objects;
 
